@@ -1,4 +1,4 @@
-# GoTask
+# WatchMe
 Desafio 02 do Ignite React da Rocketseat
 
 ## How to Run
